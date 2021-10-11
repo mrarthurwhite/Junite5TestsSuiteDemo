@@ -1,7 +1,7 @@
 /**
  * 
  */
-package business.logic.test.subtract;
+package business.logic.test.Calculate;
 
 import static org.junit.jupiter.api.Assertions.*;
 
